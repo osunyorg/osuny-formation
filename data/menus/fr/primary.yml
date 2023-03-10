@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Formations
+  target: "/formations/"
+  kind: page
+  children: []
 
