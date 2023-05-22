@@ -6,10 +6,7 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
-    diplomas: /diplomes/:slug/
     programs: /formations/:slug/
-    organizations: /organisations/:slug/
     persons: /equipe/:slug/
     administrators: /equipe/:slug/roles/
     researchers: /equipe/:slug/papers/
-    teachers: /equipe/:slug/programs/
