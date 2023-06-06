@@ -1,0 +1,12 @@
+---
+title: Menu principal
+items:
+- title: Formations
+  target: "/formations/"
+  kind: page
+  children: []
+- title: Extranet
+  target: https://extranet.osuny.org/
+  kind: url
+  children: []
+
