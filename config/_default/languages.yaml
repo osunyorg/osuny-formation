@@ -7,7 +7,8 @@ fr:
   languageName: Français
   permalinks:
     programs: /formations/:slug/
+    publications: /publications/:year-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
     administrators: /equipe/:slug/roles/
-    researchers: /equipe/:slug/papers/
+    researchers: /equipe/:slug/publications/
