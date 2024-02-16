@@ -9,6 +9,7 @@ fr:
   params:
     social:
   permalinks:
+    locations: /campus/:slug/
     programs: /formations/:slug/
     publications: /publications/:year-:slug/
     organizations: /organisations/:slug/
