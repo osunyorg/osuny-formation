@@ -10,12 +10,14 @@ fr:
     social:
   permalinks:
     locations: /campus/:slug/
+    diplomas: /diplomes/:slug/
     programs: /formations/:slug/
     publications: /publications/:year-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
     administrators: /equipe/:slug/roles/
     researchers: /equipe/:slug/publications/
+    teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
