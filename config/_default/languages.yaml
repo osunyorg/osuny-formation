@@ -10,6 +10,8 @@ fr:
     social:
   permalinks:
     locations: /campus/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
     publications: /publications/:year-:slug/
