@@ -5,6 +5,7 @@ items:
   target: "/formations/"
   kind: page
   children: []
+  path: "/programs"
   file: content/fr/programs/_index.html
 - title: Extranet
   target: https://extranet.osuny.org/
