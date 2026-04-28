@@ -14,3 +14,211 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/formations/eco-conception-de-service-numerique/index.html"
+to = "/formations/information-communication/eco-conception-de-service-numerique/"
+
+[[redirects]]
+from = "/organisations/categories/localisation/index.html"
+to = "/organisations/categories/lieu/"
+
+[[redirects]]
+from = "/equipe/categories/dev/back/index.html"
+to = "/equipe/categories/metiers/developpement/"
+
+[[redirects]]
+from = "/equipe/arnaud-levy/papers/index.html"
+to = "/equipe/arnaud-levy/publications/"
+
+[[redirects]]
+from = "/actualites/offre-de-formation/contribuer-avec-osuny/developpement-de-sites-web-eco-concus-accessibles-et-responsables/index.html"
+to = "/actualites/offre-de-formation/information-communication/developpement-de-sites-web-eco-concus-accessibles-et-responsables/"
+
+[[redirects]]
+from = "/agenda/animation-sociale-et-socioculturelle/index.html"
+to = "/agenda/offre-de-formation/animation-sociale-et-socioculturelle/"
+
+[[redirects]]
+from = "/organisations/categories/secteur/prive/index.html"
+to = "/organisations/categories/secteurs/prive/"
+
+[[redirects]]
+from = "/agenda/formation-test/index.html"
+to = "/agenda/offre-de-formation/formation-test/"
+
+[[redirects]]
+from = "/organisations/categories/localisation/ile-de-france/index.html"
+to = "/organisations/categories/lieu/france/ile-de-france/"
+
+[[redirects]]
+from = "/agenda/coordination-de-projets-de-developpement-social-et-culturel/index.html"
+to = "/agenda/offre-de-formation/coordination-de-projets-de-developpement-social-et-culturel/"
+
+[[redirects]]
+from = "/equipe/categories/implication/comites-osuny/scientifique/index.html"
+to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
+
+[[redirects]]
+from = "/organisations/categories/secteur/index.html"
+to = "/organisations/categories/secteurs-organisation/"
+
+[[redirects]]
+from = "/equipe/gestion-de-projet/index.html"
+to = "/equipe/categories/metiers/gestion-de-projet/"
+
+[[redirects]]
+from = "/organisations/categories/secteurs/service-public/index.html"
+to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/equipe/categories/region/nouvelle-aquitaine/index.html"
+to = "/equipe/categories/regions/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/categories/commoners/makers/index.html"
+to = "/organisations/categories/implication/agences-osuny/"
+
+[[redirects]]
+from = "/equipe/categories/comites/scientifique/index.html"
+to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
+
+[[redirects]]
+from = "/organisations/ile-de-france/index.html"
+to = "/organisations/categories/lieu/france/ile-de-france/"
+
+[[redirects]]
+from = "/agenda/information-communication/index.html"
+to = "/agenda/offre-de-formation/information-communication/"
+
+[[redirects]]
+from = "/equipe/categories/comites/index.html"
+to = "/equipe/categories/implication/comites-osuny/"
+
+[[redirects]]
+from = "/organisations/categories/region/index.html"
+to = "/organisations/categories/lieu/"
+
+[[redirects]]
+from = "/equipe/categories/dev/index.html"
+to = "/equipe/categories/metiers/"
+
+[[redirects]]
+from = "/equipe/categories/comite/scientifique/index.html"
+to = "/equipe/categories/implication/comites-osuny/comite-scientifique/"
+
+[[redirects]]
+from = "/organisations/categories/secteur/publique/index.html"
+to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/organisations/categories/commoners/agences-osuny/index.html"
+to = "/organisations/categories/implication/agences-osuny/"
+
+[[redirects]]
+from = "/organisations/categories/secteur/service-public/index.html"
+to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/equipe/categories/metier/index.html"
+to = "/equipe/categories/metiers/"
+
+[[redirects]]
+from = "/equipe/categories/metiers/developpement-back/index.html"
+to = "/equipe/categories/metiers/developpement/"
+
+[[redirects]]
+from = "/organisations/categories/secteur/public/index.html"
+to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/organisations/categories/localisation/nouvelle-aquitaine/index.html"
+to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/categories/implication/organisations-contributrices/index.html"
+to = "/organisations/categories/implication/contribs-osuny/"
+
+[[redirects]]
+from = "/organisations/categories/secteurs/enseignement-1/index.html"
+to = "/organisations/categories/secteurs-organisation/enseignement/"
+
+[[redirects]]
+from = "/organisations/categories/secteurs/index.html"
+to = "/organisations/categories/secteurs-organisation/"
+
+[[redirects]]
+from = "/equipe/categories/commoners/makers/index.html"
+to = "/equipe/categories/implication/makers/"
+
+[[redirects]]
+from = "/equipe/categories/region/index.html"
+to = "/equipe/categories/regions/"
+
+[[redirects]]
+from = "/actualites/offre-de-formation/eco-conception-de-service-numerique/index.html"
+to = "/actualites/offre-de-formation/information-communication/eco-conception-de-service-numerique/"
+
+[[redirects]]
+from = "/equipe/categories/gestion-de-projet/index.html"
+to = "/equipe/categories/metiers/gestion-de-projet/"
+
+[[redirects]]
+from = "/equipe/categories/commoners/index.html"
+to = "/equipe/categories/implication/commoners/"
+
+[[redirects]]
+from = "/agenda/contribuer-avec-osuny/index.html"
+to = "/agenda/offre-de-formation/contribuer-avec-osuny/"
+
+[[redirects]]
+from = "/equipe/categories/comites/dev-back/index.html"
+to = "/equipe/categories/implication/comites-osuny/dev-back/"
+
+[[redirects]]
+from = "/organisations/categories/region/nouvelle-aquitaine/index.html"
+to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/formations/developpement-de-sites-web-eco-concus-accessibles-et-responsables/index.html"
+to = "/formations/information-communication/developpement-de-sites-web-eco-concus-accessibles-et-responsables/"
+
+[[redirects]]
+from = "/organisations/categories/ile-de-france/index.html"
+to = "/organisations/categories/lieu/france/ile-de-france/"
+
+[[redirects]]
+from = "/equipe/categories/comite/index.html"
+to = "/equipe/categories/implication/comites-osuny/"
+
+[[redirects]]
+from = "/equipe/categories/metier/gestion-de-projet/index.html"
+to = "/equipe/categories/metiers/gestion-de-projet/"
+
+[[redirects]]
+from = "/organisations/categories/commoners/index.html"
+to = "/organisations/categories/implication/soutiens-osuny/"
+
+[[redirects]]
+from = "/organisations/nouvelle-aquitaine/index.html"
+to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/organisations/categories/region/ile-de-france/index.html"
+to = "/organisations/categories/lieu/france/ile-de-france/"
+
+[[redirects]]
+from = "/centre-de-formation-osuny/index.html"
+to = "/ecoles/centre-de-formation-osuny/"
+
+[[redirects]]
+from = "/agenda/developpement-de-sites-web-eco-concus-accessibles-et-responsables/index.html"
+to = "/agenda/offre-de-formation/information-communication/developpement-de-sites-web-eco-concus-accessibles-et-responsables/"
+
+[[redirects]]
+from = "/organisations/categories/nouvelle-aquitaine/index.html"
+to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/equipe/magali-angles/papers/index.html"
+to = "/equipe/magali-angles/publications/"
+
