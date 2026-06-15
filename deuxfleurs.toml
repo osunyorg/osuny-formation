@@ -119,6 +119,10 @@ from = "/organisations/categories/secteur/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
+from = "/diplomes/licence-profesionnelle/index.html"
+to = "/diplomes/licence-professionnelle/"
+
+[[redirects]]
 from = "/equipe/categories/metier/index.html"
 to = "/equipe/categories/metiers/"
 
